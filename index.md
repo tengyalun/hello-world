@@ -47,13 +47,6 @@ Regentpark hotel munich airport
 Taipei
 
 
-
-### Other Site
-  - [DB](https://bahn.com) 
-  - [MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
-
-
-
 ### Sight
 
 - ## Marienplatz
@@ -67,7 +60,11 @@ Taipei
   
 item  | Second Header | Third
 ------------ | ------------- | ------------
-transit  |S-Bahn/U-Bahn/Tram   | - [DB](https://bahn.com) 
-  - [MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
-
+transit  |S-Bahn/U-Bahn/Tram   |  Col3
 Content in the first column | Content in the second column | Col 3
+
+```
+Other Site
+```
+  - [DB](https://bahn.com) 
+  - [MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
