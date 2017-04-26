@@ -21,10 +21,11 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Other Site
-[DB](https://bahn.com) <p>
-[MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
-As Kanye West said:
+  - [DB](https://bahn.com) <p>
+  - [MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
 
+
+As Kanye West said:
 > We're living the future so
 > the present is our past.
 
