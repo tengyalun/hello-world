@@ -29,20 +29,19 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 [DB](https://bahn.com)
 
 ### Sight
-*Marienplatz*<a>
-S1/S2/U3/U6 `Marien-platz`
-
-Sight | Transit
------------- | -------------
-Marienplatz | S1/S2/U3/U6 `Marien-platz`
-Englischer Garten |- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
 
 
-- Marienplatz
+
+
+- --Marienplatz--
   - S1/S2/U3/U6 `Marien-platz`
-- Englischer Garten
+- --Englischer Garten--
   - S1/S2/S4/S6/S8 `Munchen Central Station` 3stop 4min `Isartor` trans 18  `Effnerplatz`  6stop 8min `Tivolistrabe`
   - 18 `Effnerplatz` 11 stop 19min `Tivolistrabe`
+  
+  
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+  
