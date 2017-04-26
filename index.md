@@ -3,22 +3,48 @@
 ```
 
 ### Day 1 Taipei -> **Munich**
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+GS Hotel
 
 ### Day 2
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+GS Hotel
 
 ### Day 3
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+GS Hotel
 
 ### Day 4
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+GS Hotel
 
 ### Day 5
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+Hotel Marienbad
 
 ### Day 6
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Hotel Marienbad
+
+### Day 7
+Leonardo Hotel Munich City South
+
+### Day 8
+Leonardo Hotel Munich City South
+
+### Day 9
+Leonardo Hotel Munich City South
+
+### Day 10
+Leonardo Hotel Munich City South
+
+### Day 11
+Leonardo Hotel Munich City South
+
+### Day 12
+Regentpark hotel munich airport
+
+### Day 13
+**Munich** -> Taipei 
+
+### Day 14 
+Taipei
+
+
 
 ### Other Site
   - [DB](https://bahn.com) 
@@ -31,11 +57,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - ## Marienplatz
   - S1/S2/U3/U6 `Marien-platz`
 - ## Englischer Garten
-  - S1/S2/S4/S6/S8 `Munchen Central Station` 3stop 4min `Isartor` trans 18  `Effnerplatz`  6stop 8min `Tivolistrabe`
-  - 18 `Effnerplatz` 11 stop 19min `Tivolistrabe`
+  - S1/S2/S4/S6/S8 `Hauptbahnhof Central Station` 4min `Isartor` trans 18  `Effnerplatz`  8min `Tivolistrabe`
+  - 18 `Effnerplatz` 19min `Tivolistrabe`
 - ## School
   - S8 `Flughafen Munchen`  38min  `Marienplatz` U3 `Obersending` 10min
-  - S1 `Flughafen Munchen`  43min  `Donnersbergerbrucke` S7 `Siemenswerke` 10min
+  - S1 `Flughafen Munchen`  43min  `Donnersbergerbrucke` S7 10min `Siemenswerke` 
   
 First Header | Second Header | Third
 ------------ | ------------- | ------------
