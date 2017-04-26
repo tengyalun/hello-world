@@ -67,5 +67,7 @@ Taipei
   
 item  | Second Header | Third
 ------------ | ------------- | ------------
-transit  |S-Bahn/U-Bahn/Tram   | Cell3
+transit  |S-Bahn/U-Bahn/Tram   | - [DB](https://bahn.com) 
+  - [MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
+
 Content in the first column | Content in the second column | Col 3
