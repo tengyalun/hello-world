@@ -35,7 +35,12 @@ S1/S2/U3/U6 `Marien-platz`
 Sight | Transit
 ------------ | -------------
 Marienplatz | S1/S2/U3/U6 `Marien-platz`
-Englischer Garten |*S1/S2/S4/S6/S8 `Munchen Central Station` 3stop 4min `Isartor` trans 18  `Effnerplatz`  6stop 8min `Tivolistrabe`*18 `Effnerplatz` 11 stop 19min `Tivolistrabe`
+Englischer Garten |- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
+
+*S1/S2/S4/S6/S8 `Munchen Central Station` 3stop 4min `Isartor` trans 18  `Effnerplatz`  6stop 8min `Tivolistrabe`*18 `Effnerplatz` 11 stop 19min `Tivolistrabe`
 - Dashes work just as well
 - And if you have sub points, put two spaces before the dash or star:
   - Like this
