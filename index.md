@@ -32,7 +32,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 *Marienplatz*<a>
 S1/S2/U3/U6 `Marien-platz`
 
-First Header | Second Header
+sight | transit
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Marienplatz | S1/S2/U3/U6 `Marien-platz`
+Englischer Garten | s1/s2/s4/S6 `Munchen Central Station` 3stop 4min  `Effnerplatz` trans 18  6stop 8min `Tivolistrabe`
