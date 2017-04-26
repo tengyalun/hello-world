@@ -70,7 +70,5 @@ Other Site
   - [MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
 
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] This is a complete item
+- [ ] This is an incomplete item
