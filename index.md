@@ -69,4 +69,4 @@ Other Site
   - [DB](https://bahn.com) 
   - [MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
 
-Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
