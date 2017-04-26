@@ -1,5 +1,5 @@
 ```
-Munich
+## Munich
 ```
 
 ### Day 1 Taipei -> **Munich**
@@ -33,7 +33,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - ## Englischer Garten
   - S1/S2/S4/S6/S8 `Munchen Central Station` 3stop 4min `Isartor` trans 18  `Effnerplatz`  6stop 8min `Tivolistrabe`
   - 18 `Effnerplatz` 11 stop 19min `Tivolistrabe`
-  
+- ## School
+  - S8 `Flughafen Munchen`  38min  `Marienplatz` U3 `Obersending` 10min
+  - S1 `Flughafen Munchen`  43min  `Donnersbergerbrucke` S7 `Siemenswerke` 10min
   
 First Header | Second Header | Third
 ------------ | ------------- | ------------
