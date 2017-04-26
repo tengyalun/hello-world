@@ -65,7 +65,7 @@ Taipei
   - S8 `Flughafen Munchen`  38min  `Marienplatz` U3 `Obersending` 10min
   - S1 `Flughafen Munchen`  43min  `Donnersbergerbrucke` S7 10min `Siemenswerke` 
   
-First Header | Second Header | Third
+item  | Second Header | Third
 ------------ | ------------- | ------------
-Content from cell 1 | Content from cell 2 | Cell3
+transit  |S-Bahn/U-Bahn/Tram   | Cell3
 Content in the first column | Content in the second column | Col 3
