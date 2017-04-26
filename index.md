@@ -22,7 +22,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Other Site
 [DB](https://bahn.com) <p>
-[MVV] (http://www.mvv-muenchen.de/en/homepage/index.html)
+[MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
+
+
 
 ### Sight
 
