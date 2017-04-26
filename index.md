@@ -70,5 +70,5 @@ Other Site
   - [MVV](http://www.mvv-muenchen.de/en/homepage/index.html)
 
 
-- [x] This is a complete item
-- [ ] This is an incomplete item
+[x] This is a complete item
+[ ] This is an incomplete item
