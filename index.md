@@ -32,7 +32,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 *Marienplatz*<a>
 S1/S2/U3/U6 `Marien-platz`
 
-sight | transit
+Sight | Transit
 ------------ | -------------
 Marienplatz | S1/S2/U3/U6 `Marien-platz`
-Englischer Garten | s1/s2/s4/S6 `Munchen Central Station` 3stop 4min  `Effnerplatz` trans 18  6stop 8min `Tivolistrabe`
+Englischer Garten | >S1/S2/S4/S6 `Munchen Central Station` 3stop 4min  `Effnerplatz` trans 18  6stop 8min `Tivolistrabe`
