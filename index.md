@@ -1,6 +1,7 @@
 ```
-## Munich
+Travel Guide
 ```
+- ## Munich
 
 ### Day 1 Taipei -> **Munich**
 GS Hotel
