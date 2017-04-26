@@ -1,5 +1,5 @@
 ```
-  ## Munich
+## Munich
 ```
 
 ### Day 1 Taipei -> **Munich**
